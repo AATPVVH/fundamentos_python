@@ -67,5 +67,5 @@ print(clase_mañana)
 
 producto = input("Ingrese el producto: ")
 precio_producto = int(input("Ingrese el precio del producto: "))
-descuento
+descuento = 
 
